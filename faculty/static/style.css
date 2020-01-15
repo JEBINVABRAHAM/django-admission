@@ -1,0 +1,17 @@
+/*.bor{
+	border:1px solid red;
+}*/
+.fontcol {
+    font-family:fantasy;
+    font-size: 30px;
+}
+
+@media (max-width:768px)
+{
+.t-center{
+margin-left:100px;
+}
+.t-style{
+	width:50%;
+}
+}
